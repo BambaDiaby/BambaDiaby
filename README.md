@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BambaDiaby
 - 👀 I’m interested in IoT, creating smart devices and any subject related to electrical/software eng
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently learning machine learning and spanish
 - 💞️ I’m looking to collaborate on any exciting project
 - 📫 How to reach me : find out, lol
 - 😄 Pronouns: He/Him
